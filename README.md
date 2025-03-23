@@ -4,7 +4,7 @@
 2. Distance sensor
 3. PIR sensor
    <hr>
-   <em>Create useful applications with a combination of sensors/devices.</em>
+   <em>Create useful applications with a combination of sensors/devices. 03/22/2025</em>
    <hr>
 
 <h1 align="center"> Distance Sensor Complete Circuit </h1>

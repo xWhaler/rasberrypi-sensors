@@ -3,24 +3,8 @@ import time
 
 
 """
-
 Description: Measure and log distance using HC-SR04 Distance Sensor. 
-
-
-    A usefule application would be to use in combination with a camera. 
-
-
-
-
- e.g. if distance_value <= 5:
-
-           camera_loop_code_here 
-
-        end
-
 """
-
-
 
 # TODO: Create a loop to continously display the distance values. 
 # TODO: Convert to inches

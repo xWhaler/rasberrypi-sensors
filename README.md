@@ -1,4 +1,4 @@
-# RasperryPi 5 related code 
+# RasperryPi 5 code 
 
 1. Blinking light
 2. Distance sensor

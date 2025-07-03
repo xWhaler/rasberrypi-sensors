@@ -6,7 +6,11 @@
    <hr>
    <em>Create useful applications with a combination of sensors/devices. 03/22/2025</em>
    <hr>
-
+## TODO
+- Hook up a persistent database that's fast like Redis
+- enable streaming data
+- Configure AWS architecture (API gateway, database, connection) for a data pipeline example
+  
 <h1 align="center"> Distance Sensor </h1>
 
 <p align="center">

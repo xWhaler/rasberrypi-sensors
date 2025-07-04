@@ -14,6 +14,5 @@
 <h1 align="center"> Distance Sensor </h1>
 
 <ul>
-   <li><img src="https://github.com/user-attachments/assets/2b2ebb61-2ad6-4d83-ab48-fb99b9b28496" alt="Distance Sensor Circuit" width="500" height="600"></li>
    <li><img src="photos/distance_sensor.jpg" alt="Distance Sensor Circuit" width="500" height="600"></li>
 </ul>
